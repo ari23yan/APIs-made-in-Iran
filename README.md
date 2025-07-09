@@ -145,6 +145,7 @@
  | --- |--- | ---
 :free: | [API اوقات شرعی](http://prayer.aviny.com/PrayerTimes-WebService.aspx) | سرویس جهت دریافت اوقات شرعی شهرهای ایران
 :free: | [API مناسبت ها و تعطیلات شمسی](https://holidayapi.ir) | وب سرویس مناسبت ها و تعطیلات شمسی
+:free: | [API تقویم فارسی ](https://persian-calendar.ir/) |  دریافت تاریخ‌ها، تعطیلات و تبدیل تاریخ‌ها
 
 [:arrow_heading_up: بازگشت به فهرست](#فهرست-دسته-بندی-ها)
 
